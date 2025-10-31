@@ -1,0 +1,3 @@
+[06-Jul-2024 02:54:58 Asia/Hong_Kong] PHP Fatal error:  Call to undefined method Locations::display_error_log() in /home/knzqn6k8xclp/public_html/kidzklinika.com/application/controllers/Locations.php on line 16
+[06-Jul-2024 02:55:44 Asia/Hong_Kong] PHP Fatal error:  Call to undefined method Locations::display_error_log() in /home/knzqn6k8xclp/public_html/kidzklinika.com/application/controllers/Locations.php on line 16
+[06-Jul-2024 02:55:45 Asia/Hong_Kong] PHP Fatal error:  Call to undefined method Locations::display_error_log() in /home/knzqn6k8xclp/public_html/kidzklinika.com/application/controllers/Locations.php on line 16
